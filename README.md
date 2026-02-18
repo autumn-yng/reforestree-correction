@@ -1,7 +1,6 @@
 # ReforeTree - Correction
 
-Full report: https://docs.google.com/document/d/1jVvjSXZ2SAY1Hvxa1l6deUh6aBIIneTP-i4yoZTA9i0/edit?usp=sharing
-
+[Overview blog post of the project on GainForest](https://gainforest.substack.com/p/improving-reforestree-correcting)
 
 
 Hi! We are Autumn and Sulagna from Mount Holyoke College. Here's our independent project on noticing and fixing mistakes on an already existing paper. We created this repository to store our work for correction of ReforesTree Dataset (https://github.com/gyrrei/ReforesTree/tree/main). 
@@ -15,6 +14,6 @@ In the original paper, the whole area of the drone images has been assumed to co
 
 ![Screenshot 2024-11-01 at 5 49 45 AM](https://github.com/user-attachments/assets/58881689-3310-4fa3-a2c4-9e36c517354e)
 
-Then we overlapped the correct images to get the satellite estimation based on AGBench(https://github.com/gyrrei/AGBench/tree/master/data)code. The overestimation factors changed but it still supported the hypothesis that satellite imageries overestimated the carbon stock. Besides, we noticed some area inconsistencies that we fixed in our calculation.
+Then we overlapped the correct images to get the satellite estimation based on [AGBench](https://github.com/gyrrei/AGBench/blob/master/test/AGBench_tutorial.ipynb). The overestimation factors changed but it still supported the hypothesis that satellite imageries overestimated the carbon stock. Besides, we noticed some area inconsistencies that we fixed in our calculation.
 
 ![Screenshot 2024-11-01 at 5 54 01 AM](https://github.com/user-attachments/assets/cdfe1338-1ccc-4cb9-9b1e-0bc45cfa37c3)
